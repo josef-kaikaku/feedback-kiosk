@@ -6,7 +6,7 @@
 
 Simple scrappy feedback kiosk. These kiosks are designed to collect user feedback in various settings such as retail stores, restaurants, events, and more.
 
-![Example Kiosk](./images/examle.JPG)
+![Example Kiosk](./images/example.JPG)
 
 **Features:**
 
