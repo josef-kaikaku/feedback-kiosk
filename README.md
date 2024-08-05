@@ -22,14 +22,14 @@ Simple scrappy feedback kiosk. These kiosks are designed to collect user feedbac
 ### Hardware Setup
 
 1. **Components in the example:**
-   - **Microcontroller:** ESP32 Wroom
+   - **Microcontroller:** ESP32
    - **LED:** WS2812B LED - cut to 8 LEDs
    - **Switches:** Cherry MX Blue switches
    - **Breadboard:** Small breadboard for prototyping
    - **Buttons and Casing:** 3D printed buttons and casing (STL files available in the `hardware/` directory)
 
 2. **Assembly:**
-   - Connect the ESP32 Wroom to the WS2812B LED and Cherry MX Blue switches on the breadboard.
+   - Connect the ESP32 to the WS2812B LED and Cherry MX Blue switches on the breadboard.
    - Refer to the `hardware/connection_diagram.png` for detailed wiring instructions.
    - Use the 3D printed buttons and casing to house the components securely.
 
@@ -53,13 +53,13 @@ Yes I know my cable management is not pretty.
    - Edit the configuration file in the `src/config/` directory to customize WiFi credentials and Airtable settings.
 
 4. **Flashing Firmware:**
-   - Use Arduino IDE to flash the firmware onto the ESP32 Wroom microcontroller.
+   - Use Arduino IDE to flash the firmware onto the ESP32 microcontroller.
 
 ## Usage
 
 1. **Power Up:**
    - Connect the feedback kiosk to a power source.
-   - The ESP32 Wroom will initialize and run the firmware.
+   - The ESP32 will initialize and run the firmware.
 
 2. **Interaction:**
    - Users can press any of the four buttons with Cherry MX Blue switches to provide feedback.
