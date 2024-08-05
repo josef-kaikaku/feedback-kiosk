@@ -14,6 +14,7 @@ Simple scrappy feedback kiosk. These kiosks are designed to collect user feedbac
 - **LED Indicators:** Visual feedback using WS2812B LED.
 - **Wi-Fi Connectivity:** Sends feedback data to Airtable in real-time.
 - **Open-source:** Freely available for modification and distribution under the MIT License.
+- **Spam Filter:** Prevents spam by limiting the number of buttons clicks per second.
 
 
 ## Installation
