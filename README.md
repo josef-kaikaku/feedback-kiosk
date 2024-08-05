@@ -6,7 +6,7 @@
 
 Simple scrappy feedback kiosk. These kiosks are designed to collect user feedback in various settings such as retail stores, restaurants, events, and more.
 
-![Example Kiosk](./images/kiosk.jpg)
+![Example Kiosk](./images/examle.JPG)
 
 **Features:**
 
@@ -33,7 +33,7 @@ Simple scrappy feedback kiosk. These kiosks are designed to collect user feedbac
    - Use the 3D printed buttons and casing to house the components securely.
 
 
-![disassembled](./images/disassembled.jpg)
+![disassembled](./images/disassembled.JPG)
 Yes I know my cable management is not pretty.
 
 ### Firmware Installation
